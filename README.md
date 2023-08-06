@@ -1,7 +1,7 @@
 # My-Best-Friend
 Pretend you're talking to THE ROCK
 
-This is a random app I decided to make because im lonely and wanted a friend to talk to (Android APK also availabale here)[]
+This is a random app I decided to make because im lonely and wanted a friend to talk to (Android app coming soon)
 
 # HOW TO RUN:
 ***VIDEO TUTORIAL BELOW***
